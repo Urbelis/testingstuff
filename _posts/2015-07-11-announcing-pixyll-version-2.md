@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
-date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
-categories: jekyll pixyll
+title:      Test title
+date:       2016-08-10
+summary:    Something is happening test
+categories: Seleniunm Python
 ---
 
-In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
+Test text
 
-Pixyll now features:
+Selenium now features:
 
 * Line anchors in code blocks and new syntax highlighting
 * A customizable variables file
